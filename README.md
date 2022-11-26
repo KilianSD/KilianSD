@@ -1,8 +1,8 @@
 # Little More About Me 🚀
 I am a computer science based in Montréal, Canada. I have a focus in software exploitation, reverse-engineering, malware analysis/programming (legally) and hardware/electrical engineering.
-Currently i am studying for CS161 (Operating Systems) which was offered by harvard, i was previously studying at Arizona State University for CSE466 (Computer Systems Security).
+Currently I am studying for CS161 (Operating Systems) which was offered by harvard, I was previously studying at Arizona State University for CSE466 (Computer Systems Security).
 
-I also been programming for a very long time now, i still do it on a daily basis (projects, homework, practice) but for the interested here's a list of the main programming languages i use the most in my work (descending order, most comfortable with to less comfortable) :
+I also been programming for a very long time now, I still do it on a daily basis (projects, homework, practice) but for the interested here's a list of the main programming languages I use the most in my work (descending order, most comfortable with to less comfortable) :
   - C++
   - C
   - ASM
