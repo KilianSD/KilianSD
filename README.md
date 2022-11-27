@@ -1,5 +1,5 @@
 # Little More About Me 🚀
-I am a computer scientist based in Montréal, Canada. I have a focus in software exploitation, reverse-engineering, malware analysis/programming (legally) and hardware/electrical engineering.
+I am a 21 year old computer scientist based in Montréal, Canada. I have a focus in software exploitation, reverse-engineering, malware analysis/programming (legally) and hardware/electrical engineering.
 Currently I am studying for CS161 (Operating Systems) which was offered by harvard, I was previously studying at Arizona State University for CSE466 (Computer Systems Security).
 
 I also been programming for a very long time now, I still do it on a daily basis (projects, homework, practice) but for the interested here's a list of the main programming languages I use the most in my work (descending order, most comfortable with to less comfortable) :
